@@ -66,7 +66,9 @@ This project is released under the MIT License. Feel free to use and cite approp
 
 ## 👤 Author
 Jorge Manrique Ruiz
+
 Master in Big Data Analytics
+
 Universidad Carlos III de Madrid (UC3M), 2025
 
 
