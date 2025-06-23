@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+mpl_toolkits
+scikit-learn
+geopandas
+seaborn
+shapely
+scipy
+tqdm
+joblib
+jupyterlab
