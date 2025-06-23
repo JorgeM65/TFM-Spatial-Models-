@@ -15,19 +15,33 @@ The random split stability of these models are tested across several benchmark d
 ## 🗂️ Repository Structure
 
 ├── Airbnb/ # Contains the Airbnb case study
+
 │ ├── Airbnb_def.ipynb # Notebook for generating results in the Case Study section
+
 │ ├── sections_2017.csv # Dataset with Airbnb data
+
 │ └── sections_geo.json # GeoJSON file with geographic information of Barcelona
+
 ├── Stability/ # Contains the stability analysis for benchmark datasets
+
 │ ├── Data/ # Raw datasets (Georgia, Columbus, Baltimore, etc.)
+
 │ ├── Results/ # Output results for each dataset
+
 │ ├── Baltimore_loop.ipynb # Code for the Baltimore dataset
+
 │ ├── Columbus_loop.ipynb # Code for the Columbus dataset
+
 │ ├── Georgia_loop.ipynb # Code for the Georgia dataset
+
 │ ├── Pm25_loop.ipynb # Code for the PM2.5 dataset
+
 │ ├── Sintetico_loop.ipynb # Code for the synthetic dataset
+
 │ └── Tables.ipynb # Code for generating metrics tables and plots
+
 ├── requirements.txt # Python libraries and versions used
+
 └── README.md # This file
 
 ## 🧪 Main Components
